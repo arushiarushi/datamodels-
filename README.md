@@ -1,7 +1,7 @@
 # datamodels-
 info 330 - Fill out a Database Ontology
 
-* IMS: [IMS.md] (IMS.md)
+* IMS: [IMS.md] (IMS)
 * Microsoft Sql Server: [MicrosoftSqlServer.md] (MicrosoftSqlServer.md)
 * MySQL: [MySQL.md] MySQL.md 
 * Objectstore: [Objectstore.md] (Objectstore.md)
