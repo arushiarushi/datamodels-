@@ -2,8 +2,8 @@
 info 330 - Fill out a Database Ontology
 
 * IMS: [IMS] (https://github.com/arushiarushi/datamodels-/blob/master/IMS.md)
-* Microsoft Sql Server: [MicrosoftSqlServer.md] (MicrosoftSqlServer.md)
-* MySQL: [MySQL.md] MySQL.md 
+* Microsoft Sql Server: [MicrosoftSqlServer.md] (https://github.com/arushiarushi/datamodels-/blob/master/MicrosoftSqlServer.md)
+* MySQL: [MySQL.md] [MySQL.md ](https://github.com/arushiarushi/datamodels-/blob/master/MySQL.md)
 * Objectstore: [Objectstore.md] (Objectstore.md)
 * RDM_Embdded: [RDM_Embdded.md] (RDM_Embdded.md)
 * oracle: [oracle.md] (oracle.md) 
